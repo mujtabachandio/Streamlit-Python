@@ -1,0 +1,15 @@
+# Ignore environment variables
+.env
+
+# Ignore Streamlit secrets file
+secrets.toml
+
+# Ignore __pycache__ and compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore system files
+.DS_Store
+Thumbs.db
